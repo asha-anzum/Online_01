@@ -1,4 +1,4 @@
-
+CREATE DATABASE oneline_01
 CREATE TABLE Appointment ( 
 	ID INT(10) AUTO_INCREMENT, 
 	DOCTOR_NAME varchar(50), 
