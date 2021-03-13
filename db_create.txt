@@ -1,1 +1,8 @@
 
+CREATE TABLE Appointment ( 
+	ID INT(10) AUTO_INCREMENT, 
+	DOCTOR_NAME varchar(50), 
+	PATIENT_NAME varchar(50),
+        DATE date,
+	PRIMARY KEY(ID) 
+);
